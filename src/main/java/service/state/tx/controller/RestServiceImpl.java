@@ -9,7 +9,6 @@ public class RestServiceImpl {
 	
 	@RequestMapping("/getListofCoffee")
 	public void getListofMenu(Coffee coffee){
-		
 		coffee.getId();
 		coffee.getCoffeeType();
 		
