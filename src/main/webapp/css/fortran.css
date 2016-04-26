@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+.coffeeday{
+		border: thin;
+		color: green;
+		border-color: gray;
+		width: 45%;
+		height: 30%;
+		font-size: medium;
+		margin-left: 20%;
+}
+
+.button{
+		
+		border: thin;
+		color: maroon;
+		border-color: gray;
+		width: 5%;
+		height: 30%;
+		font: bold;
+		font-size: large;
+		margin-left: 20%;
+}
